@@ -1,2 +1,3 @@
-# flex-api-service-l65r
-Automated issue comment bot repository
+# Flex Api Service L65R
+
+Automated issue comment bot repository.
